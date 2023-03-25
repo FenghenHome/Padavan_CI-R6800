@@ -18,7 +18,7 @@ on:
       rainbowui:
         type: boolean
         description: 'whether to apply rainbow ui'
-        default: 'true'
+        default: 'false'
       changebrandlogo:
         type: boolean
         description: 'change brand logo image for specialized router'
